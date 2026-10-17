@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ShoppingLists.Core/ShoppingLists.Core.csproj" />
+  <Project Path="ShoppingLists/ShoppingLists.csproj" Id="2e8cf88f-6638-4e2b-a4de-59b907464fba" />
+</Solution>
